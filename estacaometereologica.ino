@@ -10,8 +10,8 @@
 const char* ssid = "test";                        //SSID do roteador.
 const char* password = "pass";                //Senha do roteador.
 
-unsigned long channelID = 1694944;                //ID do canal.
-const char* WriteAPIKey = "2AV3Z6ZJTOG1082V";     //Write API Key do canal.
+unsigned long channelID = ****;                //ID do canal.
+const char* WriteAPIKey = "****";     //Write API Key do canal.
 
 WiFiClient cliente;
 
