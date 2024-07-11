@@ -7,8 +7,8 @@
 #define pin1 4       //Pin del DHT11.
 //#define pin2 23       //Pin del Rele.
 
-const char* ssid = "CIONC";                        //SSID do roteador.
-const char* password = "cionccuritiba";                //Senha do roteador.
+const char* ssid = "test";                        //SSID do roteador.
+const char* password = "pass";                //Senha do roteador.
 
 unsigned long channelID = 1694944;                //ID do canal.
 const char* WriteAPIKey = "2AV3Z6ZJTOG1082V";     //Write API Key do canal.
