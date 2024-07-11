@@ -4,8 +4,8 @@
 #include "DHT.h"
 
 
-#define pin1 4       //Pin del DHT11.
-//#define pin2 23       //Pin del Rele.
+#define pin1 4      
+//#define pin2 23      
 
 const char* ssid = "test";                        //SSID do roteador.
 const char* password = "pass";                //Senha do roteador.
